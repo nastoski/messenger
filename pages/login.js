@@ -15,7 +15,7 @@ function Login() {
       </Head>
 
       <LoginContainer>
-        <Logo src="https://www.searchpng.com/wp-content/uploads/2019/03/Messenger-Icon-PNG-715x715.png" />
+        <Logo src="https://www.clipartmax.com/png/full/232-2321962_circle-social-facebook-messenger-logo-png-image-social-media-icons-png.png" />
         <Button onClick={signIn} variant="outlined">
           Sign in with Google
         </Button>
